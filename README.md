@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I am a dedicated Data Engineer with over 3 years o
 
 ## Skills & Tools
 - **Languages:** Python, SQL, Spark, Scala, Java, C++
-- **Libraries:** NumPy, pandas, PySpark, TensorFlow, Matplotlib
+- **Libraries:** NumPy, PySpark, TensorFlow, Matplotlib
 - **Technologies:** Microsoft Azure Databricks, Tableau, Jupyter Notebook, Git, SQL Server, AWS, Azure, JIRA
 - **Certifications:** Databricks Certified Data Engineer Associate, AWS Cloud Foundations, AWS Cloud Architecting
 
